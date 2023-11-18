@@ -12,7 +12,7 @@
 </head>
 
 <body>
-<h1>Lorem Ipsum</h1>
+<h1>Lorem Ipsum323</h1>
 
 
 <script src='index.js?<?php echo time(); ?>'></script>
